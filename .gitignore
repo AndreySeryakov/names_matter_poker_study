@@ -1,0 +1,14 @@
+__pycashe__/
+backup/
+GPT*/
+LLama*/
+logs/
+names/
+old_files/
+results/
+runs/
+strategy_results/
+testfile_logs/
+.env
+calc_costs.py 
+token_usage.txt
