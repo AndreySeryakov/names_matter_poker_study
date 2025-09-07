@@ -24,6 +24,7 @@ Two experiment modes are supported:
 * `names_matter_poker_study.py` — main runner (your script).
 * `instrumentation.py` — tiny helpers for timestamps and (WIP) JSONL logging.
 * `.env` — **not committed**; holds API keys.
+
 AS: analysis scripts, I didn't provide them to chatGPT, so there is nothing about them.
 But one of them runs authomaticaly so you will get a hist with disctibution of answers.
 
